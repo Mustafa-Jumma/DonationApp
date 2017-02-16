@@ -13,7 +13,7 @@ namespace Donation
         {
             InitializeComponent();
 
-            MainPage = new Donation.MainPage();
+            MainPage = new Donation.MainListPage();
         }
 
         protected override void OnStart()
